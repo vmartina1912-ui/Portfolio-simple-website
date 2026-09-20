@@ -32,5 +32,3 @@ This project was created to practice the fundamentals of **HTML and CSS**, inclu
 ## 👩‍💻 Author
 
 **MARTINA VICTOR**
-
-GitHub: **[Your GitHub Profile Link]**
